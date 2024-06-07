@@ -1,0 +1,9 @@
+body{
+  background-color: #242424;
+  /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(7,7,155,1) 17%, rgba(0,212,255,1) 100%); */
+  /* background: url('./assets/tile_background.png'); */
+}
+
+#root{
+	color: black;
+}
